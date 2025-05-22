@@ -1,13 +1,18 @@
-<p align="center">
-  <img src="perfil.png" alt="Banner" width="100%" height="500px" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="middle" align="center">
 
-<h1 align="center">¡Hola! 👋 Soy PabloPablo</h1>
+### ¡Hola! 👋 Soy PabloPablo
 
-<p align="center">
-  Desarrollador web en formación | Apasionado por los videojuegos 🎮 y la tecnología 💻
-</p>
+Desarrollador web en formación | Apasionado por los videojuegos 🎮 y la tecnología 💻
 
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <img src="perfil.png" alt="Banner" width="300px" />
+    </td>
+
+  </tr>
+</table>
 ---
 
 ### 🚀 Tecnologías que uso:
