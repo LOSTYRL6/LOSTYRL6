@@ -1,6 +1,17 @@
-| ¡Hola! 👋 Soy Pablo                                                                                                                                                                                                                                                                                                                                                                              | ![Banner](cuvo.gif) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
-| Soy desarrollador fullstack en formación, con experiencia en Vue, Laravel y React. Me interesa profundizar en el diseño UI/UX porque creo que la usabilidad y la experiencia del usuario son clave para el éxito de cualquier aplicación. Mi objetivo es seguir aprendiendo nuevas tecnologías y habilidades para ser un profesional versátil y preparado para los retos del sector tecnológico. |                     |
+<table border ="none">
+  <tr>
+    <td width="50%" valign="middle" align="center">
+
+### ¡Hola! 👋 Soy Pablo
+
+Soy desarrollador fullstack en formación, con experiencia en Vue, Laravel y React. Me interesa profundizar en el diseño UI/UX porque creo que la usabilidad y la experiencia del usuario son clave para el éxito de cualquier aplicación. Mi objetivo es seguir aprendiendo nuevas tecnologías y habilidades para ser un profesional versátil y preparado para los retos del sector tecnológico.
+
+</td>
+    <td width="50%" valign="middle" align="center">
+      <img src="cuvo.gif" alt="Banner" width="300px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
