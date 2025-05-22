@@ -1,4 +1,4 @@
-<table  border="0">
+<table>
   <tr>
     <td width="50%" valign="middle" align="center">
 
@@ -10,10 +10,9 @@ Soy desarrollador fullstack en formación, con experiencia en Vue, Laravel y Rea
     <td width="50%" valign="middle" align="center">
       <img src="cuvo.gif" alt="Banner" width="300px" />
     </td>
-</td>
-
   </tr>
 </table>
+
 ---
 
 ### 🚀 Tecnologías que uso:
