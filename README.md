@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/YourBannerImage.png" alt="Banner" width="100%" />
+  <img src="perfil.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">¡Hola! 👋 Soy Pedro</h1>
+<h1 align="center">¡Hola! 👋 Soy PabloPablo</h1>
 
 <p align="center">
   Desarrollador web en formación | Apasionado por los videojuegos 🎮 y la tecnología 💻
