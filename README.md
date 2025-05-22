@@ -8,7 +8,7 @@ Desarrollador web en formación | Apasionado por los videojuegos 🎮 y la tecno
 
 </td>
     <td width="50%" valign="middle" align="center">
-      <img src="perfil.png" alt="Banner" width="300px" />
+      <img src="cuvo.gif" alt="Banner" width="300px" />
     </td>
 </td>
 
