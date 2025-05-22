@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="perfil.png" alt="Banner" width="100%" />
+  <img src="perfil.png" alt="Banner" width="100%" height="500px" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy PabloPablo</h1>
