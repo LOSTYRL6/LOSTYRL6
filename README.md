@@ -2,9 +2,13 @@
   <tr>
     <td width="50%" valign="middle" align="center">
 
-### ¡Hola! 👋 Soy PabloPablo
+### ¡Hola! 👋 Soy Pablo
 
-Desarrollador web en formación | Apasionado por los videojuegos 🎮 y la tecnología 💻
+Soy un desarrollador fullstack en formación, con experiencia práctica en frameworks y tecnologías como Vue, Laravel y React. Mi enfoque principal es construir aplicaciones web robustas y eficientes, combinando tanto el desarrollo del lado del cliente como del servidor para ofrecer soluciones completas y funcionales.
+
+Además, tengo un interés creciente en el diseño de interfaces y experiencia de usuario (UI/UX). Considero que una buena aplicación no solo debe funcionar correctamente, sino también ser atractiva y fácil de usar para quienes la utilizan. Por ello, estoy comprometido en profundizar mis conocimientos en este campo para poder integrar mejores prácticas de diseño que mejoren la interacción y satisfacción del usuario.
+
+Mi objetivo profesional es seguir ampliando mi formación y habilidades técnicas, explorando nuevas tecnologías y metodologías que me permitan ser un desarrollador versátil, capaz de adaptarse a distintos proyectos y necesidades del sector tecnológico. Busco constantemente mejorar tanto mis capacidades técnicas como creativas para aportar valor real en cada proyecto en el que trabajo.
 
 </td>
     <td width="50%" valign="middle" align="center">
