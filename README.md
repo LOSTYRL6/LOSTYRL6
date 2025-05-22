@@ -6,10 +6,11 @@
 
 Desarrollador web en formación | Apasionado por los videojuegos 🎮 y la tecnología 💻
 
-    </td>
+</td>
     <td width="50%" valign="middle" align="center">
       <img src="perfil.png" alt="Banner" width="300px" />
     </td>
+</td>
 
   </tr>
 </table>
