@@ -13,6 +13,19 @@ Soy desarrollador fullstack en formación, con experiencia en Vue, Laravel y Rea
   </tr>
 </table>
 
+<table border ="none">
+  <tr>
+    <td width="50%" valign="middle" align="center">
+      <img src="pacman.gif" alt="Banner" width="300px" />
+    </td>
+
+</td>
+    <td width="50%" valign="middle" align="center">
+      <img src="cuvo.gif" alt="Banner" width="300px" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🚀 Tecnologías que uso:
