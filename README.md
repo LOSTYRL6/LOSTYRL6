@@ -49,4 +49,4 @@ Soy desarrollador fullstack en formación, con experiencia en Vue, Laravel y Rea
 
 ### 📊 Mis estadísticas:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LOSTYRL6&show_icons=true&theme=tokyonight)
