@@ -24,13 +24,16 @@ Mi objetivo es seguir aprendiendo nuevas tecnologías y habilidades para ser un 
       <td width="50%" valign="middle" align="center">
         <img src="pacman.gif" alt="Banner" width="300px" />
       </td>
-      <td width="50%" valign="middle" align="center">
+      <td width="50%" valign="middle" align="left">
 
 ### 🧠 Sobre mí
 
-- 🤔 Curioso - 💪 Determinado
-- 📘 Con ganas de aprender - 🔄 Flexible
-- 🤝 Abierto a colaborar - 🎯 Enfocado en mejorar siempre
+**🤔 Curioso:** Me gusta entender cómo funcionan las cosas y explorar nuevas ideas.  
+**💪 Determinado:** Siempre termino lo que empiezo, incluso cuando se pone difícil.  
+**📘 Con ganas de aprender:** Disfruto descubriendo nuevas tecnologías y herramientas.  
+**🔄 Flexible:** Me adapto fácilmente a los cambios y aprendo de ellos.  
+**🤝 Colaborativo:** Me gusta trabajar en equipo y compartir ideas.  
+**🎯 Enfocado:** Tengo objetivos claros y doy lo mejor para alcanzarlos.
 
 </td>
     </tr>
