@@ -28,12 +28,9 @@ Mi objetivo es seguir aprendiendo nuevas tecnologías y habilidades para ser un 
 
 ### 🧠 Sobre mí
 
-- 🤔 Curioso
-- 💪 Determinado
-- 📘 Con ganas de aprender
-- 🔄 Flexible
-- 🤝 Abierto a colaborar
-- 🎯 Enfocado en mejorar siempre
+- 🤔 Curioso - 💪 Determinado
+- 📘 Con ganas de aprender - 🔄 Flexible
+- 🤝 Abierto a colaborar - 🎯 Enfocado en mejorar siempre
 
 </td>
     </tr>
