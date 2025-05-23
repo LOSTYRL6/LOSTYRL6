@@ -43,7 +43,7 @@ Soy desarrollador fullstack en formación, con experiencia en Vue, Laravel y Rea
 ### 📫 Contacto:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablolinlinsf2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablo-lin-43332a32b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-lin-43332a32b)
 
 ---
 
