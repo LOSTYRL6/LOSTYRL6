@@ -1,6 +1,7 @@
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="middle" align="center">
+<div align="center" style="width:600px; margin:auto; display:table;">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="middle" align="center">
 
 ### ¡Hola! 👋 Soy Pablo
 
@@ -8,20 +9,22 @@ Soy desarrollador fullstack en formación, con experiencia en Vue, Laravel y Rea
 Mi objetivo es seguir aprendiendo nuevas tecnologías y habilidades para ser un profesional versátil y preparado para los retos del sector tecnológico.
 
 </td>
-    <td width="50%" valign="middle" align="center">
-      <img src="cuvo.gif" alt="Banner" width="300px" />
-    </td>
-  </tr>
-</table>
+      <td width="50%" valign="middle" align="center">
+        <img src="cuvo.gif" alt="Banner" width="300px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="middle" align="center">
-      <img src="pacman.gif" alt="Banner" width="300px" />
-    </td>
-    <td width="50%" valign="middle" align="center">
+<div align="center" style="width:600px; margin:auto; display:table;">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="middle" align="center">
+        <img src="pacman.gif" alt="Banner" width="300px" />
+      </td>
+      <td width="50%" valign="middle" align="center">
 
 ### 🧠 Sobre mí
 
@@ -33,8 +36,9 @@ Mi objetivo es seguir aprendiendo nuevas tecnologías y habilidades para ser un 
 - 🎯 Enfocado en mejorar siempre
 
 </td>
-  </tr>
-</table>
+    </tr>
+  </table>
+</div>
 
 ---
 
